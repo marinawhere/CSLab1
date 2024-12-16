@@ -1,0 +1,546 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marina\\source\\repos\\app(2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3710F8A0-5B41-4592-A3F8-F1F5FBC26FA6}|App.Tests\\App.Tests.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app.tests\\tests\\dictionaryrepository.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3710F8A0-5B41-4592-A3F8-F1F5FBC26FA6}|App.Tests\\App.Tests.csproj|solutionrelative:app.tests\\tests\\dictionaryrepository.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3710F8A0-5B41-4592-A3F8-F1F5FBC26FA6}|App.Tests\\App.Tests.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app.tests\\tests\\consolemenu.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3710F8A0-5B41-4592-A3F8-F1F5FBC26FA6}|App.Tests\\App.Tests.csproj|solutionrelative:app.tests\\tests\\consolemenu.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3710F8A0-5B41-4592-A3F8-F1F5FBC26FA6}|App.Tests\\App.Tests.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app.tests\\app.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3710F8A0-5B41-4592-A3F8-F1F5FBC26FA6}|App.Tests\\App.Tests.csproj|solutionrelative:app.tests\\app.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\services\\repositories\\dictionaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\services\\repositories\\dictionaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\services\\menus\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\services\\menus\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\models\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\models\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\interfaces\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\interfaces\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\interfaces\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\interfaces\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\interfaces\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\interfaces\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\interfaces\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\interfaces\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\interfaces\\idictionaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\interfaces\\idictionaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\interfaces\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\interfaces\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\factories\\commandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\factories\\commandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\commands\\starttestingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\commands\\starttestingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\commands\\invalidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\commands\\invalidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\commands\\exitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\commands\\exitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\commands\\deletewordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\commands\\deletewordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\commands\\addnewwordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\commands\\addnewwordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3710F8A0-5B41-4592-A3F8-F1F5FBC26FA6}|App.Tests\\App.Tests.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app.tests\\tests\\wordservice.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3710F8A0-5B41-4592-A3F8-F1F5FBC26FA6}|App.Tests\\App.Tests.csproj|solutionrelative:app.tests\\tests\\wordservice.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3710F8A0-5B41-4592-A3F8-F1F5FBC26FA6}|App.Tests\\App.Tests.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app.tests\\tests\\testservice.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3710F8A0-5B41-4592-A3F8-F1F5FBC26FA6}|App.Tests\\App.Tests.csproj|solutionrelative:app.tests\\tests\\testservice.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\services\\storage\\jsonstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\services\\storage\\jsonstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3710F8A0-5B41-4592-A3F8-F1F5FBC26FA6}|App.Tests\\App.Tests.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app.tests\\tests\\storage.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3710F8A0-5B41-4592-A3F8-F1F5FBC26FA6}|App.Tests\\App.Tests.csproj|solutionrelative:app.tests\\tests\\storage.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3710F8A0-5B41-4592-A3F8-F1F5FBC26FA6}|App.Tests\\App.Tests.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3710F8A0-5B41-4592-A3F8-F1F5FBC26FA6}|App.Tests\\App.Tests.csproj|solutionrelative:app.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marina\\source\\repos\\app\\Tests\\TestService.Tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\services\\wordmanagement\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\services\\wordmanagement\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\properties\\dictionary.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\properties\\dictionary.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|c:\\users\\marina\\source\\repos\\app(2)\\app\\services\\testing\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A262-FE95-4A87-9C59-A6C2DBBAA71C}|app\\app.csproj|solutionrelative:app\\services\\testing\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marina\\source\\repos\\app\\Tests\\Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 574,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DictionaryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Services\\Repositories\\DictionaryRepository.cs",
+              "RelativeDocumentMoniker": "app\\Services\\Repositories\\DictionaryRepository.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Services\\Repositories\\DictionaryRepository.cs",
+              "RelativeToolTip": "app\\Services\\Repositories\\DictionaryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:08:09.285Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JsonStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Services\\Storage\\JsonStorage.cs",
+              "RelativeDocumentMoniker": "app\\Services\\Storage\\JsonStorage.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Services\\Storage\\JsonStorage.cs",
+              "RelativeToolTip": "app\\Services\\Storage\\JsonStorage.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:12:06.033Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app\\Tests\\Tests.csproj",
+              "RelativeDocumentMoniker": "..\\app\\Tests\\Tests.csproj",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app\\Tests\\Tests.csproj",
+              "RelativeToolTip": "..\\app\\Tests\\Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-29T07:27:37.967Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.Tests",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\App.Tests\\App.Tests.csproj",
+              "RelativeDocumentMoniker": "App.Tests\\App.Tests.csproj",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\App.Tests\\App.Tests.csproj",
+              "RelativeToolTip": "App.Tests\\App.Tests.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T18:19:12.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Word.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Models\\Word.cs",
+              "RelativeDocumentMoniker": "app\\Models\\Word.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Models\\Word.cs",
+              "RelativeToolTip": "app\\Models\\Word.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:07:35.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleMenu.Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\App.Tests\\Tests\\ConsoleMenu.Tests.cs",
+              "RelativeDocumentMoniker": "App.Tests\\Tests\\ConsoleMenu.Tests.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\App.Tests\\Tests\\ConsoleMenu.Tests.cs",
+              "RelativeToolTip": "App.Tests\\Tests\\ConsoleMenu.Tests.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAswGEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:02:21.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DictionaryRepository.Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\App.Tests\\Tests\\DictionaryRepository.Tests.cs",
+              "RelativeDocumentMoniker": "App.Tests\\Tests\\DictionaryRepository.Tests.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\App.Tests\\Tests\\DictionaryRepository.Tests.cs",
+              "RelativeToolTip": "App.Tests\\Tests\\DictionaryRepository.Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:09:57.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWordService.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Interfaces\\IWordService.cs",
+              "RelativeDocumentMoniker": "app\\Interfaces\\IWordService.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Interfaces\\IWordService.cs",
+              "RelativeToolTip": "app\\Interfaces\\IWordService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:28:54.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITestService.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Interfaces\\ITestService.cs",
+              "RelativeDocumentMoniker": "app\\Interfaces\\ITestService.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Interfaces\\ITestService.cs",
+              "RelativeToolTip": "app\\Interfaces\\ITestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:07:31.257Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Services\\Menus\\ConsoleMenu.cs",
+              "RelativeDocumentMoniker": "app\\Services\\Menus\\ConsoleMenu.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Services\\Menus\\ConsoleMenu.cs",
+              "RelativeToolTip": "app\\Services\\Menus\\ConsoleMenu.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:07:39.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Interfaces\\IStorage.cs",
+              "RelativeDocumentMoniker": "app\\Interfaces\\IStorage.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Interfaces\\IStorage.cs",
+              "RelativeToolTip": "app\\Interfaces\\IStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:14:53.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Interfaces\\IMenu.cs",
+              "RelativeDocumentMoniker": "app\\Interfaces\\IMenu.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Interfaces\\IMenu.cs",
+              "RelativeToolTip": "app\\Interfaces\\IMenu.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:07:29.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDictionaryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Interfaces\\IDictionaryRepository.cs",
+              "RelativeDocumentMoniker": "app\\Interfaces\\IDictionaryRepository.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Interfaces\\IDictionaryRepository.cs",
+              "RelativeToolTip": "app\\Interfaces\\IDictionaryRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:07:27.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Interfaces\\ICommand.cs",
+              "RelativeDocumentMoniker": "app\\Interfaces\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Interfaces\\ICommand.cs",
+              "RelativeToolTip": "app\\Interfaces\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:07:26.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CommandFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Factories\\CommandFactory.cs",
+              "RelativeDocumentMoniker": "app\\Factories\\CommandFactory.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Factories\\CommandFactory.cs",
+              "RelativeToolTip": "app\\Factories\\CommandFactory.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:06:08.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StartTestingCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Commands\\StartTestingCommand.cs",
+              "RelativeDocumentMoniker": "app\\Commands\\StartTestingCommand.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Commands\\StartTestingCommand.cs",
+              "RelativeToolTip": "app\\Commands\\StartTestingCommand.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:09:57.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InvalidCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Commands\\InvalidCommand.cs",
+              "RelativeDocumentMoniker": "app\\Commands\\InvalidCommand.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Commands\\InvalidCommand.cs",
+              "RelativeToolTip": "app\\Commands\\InvalidCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:09:39.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExitCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Commands\\ExitCommand.cs",
+              "RelativeDocumentMoniker": "app\\Commands\\ExitCommand.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Commands\\ExitCommand.cs",
+              "RelativeToolTip": "app\\Commands\\ExitCommand.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:07:23.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeleteWordCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Commands\\DeleteWordCommand.cs",
+              "RelativeDocumentMoniker": "app\\Commands\\DeleteWordCommand.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Commands\\DeleteWordCommand.cs",
+              "RelativeToolTip": "app\\Commands\\DeleteWordCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:07:20.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddNewWordCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Commands\\AddNewWordCommand.cs",
+              "RelativeDocumentMoniker": "app\\Commands\\AddNewWordCommand.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Commands\\AddNewWordCommand.cs",
+              "RelativeToolTip": "app\\Commands\\AddNewWordCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:07:15.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WordService.Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\App.Tests\\Tests\\WordService.Tests.cs",
+              "RelativeDocumentMoniker": "App.Tests\\Tests\\WordService.Tests.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\App.Tests\\Tests\\WordService.Tests.cs",
+              "RelativeToolTip": "App.Tests\\Tests\\WordService.Tests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:00:56.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TestService.Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\App.Tests\\Tests\\TestService.Tests.cs",
+              "RelativeDocumentMoniker": "App.Tests\\Tests\\TestService.Tests.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\App.Tests\\Tests\\TestService.Tests.cs",
+              "RelativeToolTip": "App.Tests\\Tests\\TestService.Tests.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:59:42.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Storage.Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\App.Tests\\Tests\\Storage.Tests.cs",
+              "RelativeDocumentMoniker": "App.Tests\\Tests\\Storage.Tests.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\App.Tests\\Tests\\Storage.Tests.cs",
+              "RelativeToolTip": "App.Tests\\Tests\\Storage.Tests.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAowHUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:01:23.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "app.csproj",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\app.csproj",
+              "RelativeDocumentMoniker": "app\\app.csproj",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\app.csproj",
+              "RelativeToolTip": "app\\app.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T13:05:34.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Program.cs",
+              "RelativeDocumentMoniker": "app\\Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Program.cs",
+              "RelativeToolTip": "app\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:04:51.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\App.Tests\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "App.Tests\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\App.Tests\\GlobalUsings.cs",
+              "RelativeToolTip": "App.Tests\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:01:21.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TestService.Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app\\Tests\\TestService.Tests.cs",
+              "RelativeDocumentMoniker": "..\\app\\Tests\\TestService.Tests.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app\\Tests\\TestService.Tests.cs",
+              "RelativeToolTip": "..\\app\\Tests\\TestService.Tests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:55:58.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "app",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\app.csproj",
+              "RelativeDocumentMoniker": "app\\app.csproj",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\app.csproj",
+              "RelativeToolTip": "app\\app.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T17:25:08.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WordService.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Services\\WordManagement\\WordService.cs",
+              "RelativeDocumentMoniker": "app\\Services\\WordManagement\\WordService.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Services\\WordManagement\\WordService.cs",
+              "RelativeToolTip": "app\\Services\\WordManagement\\WordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:12:38.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "dictionary.json",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Properties\\dictionary.json",
+              "RelativeDocumentMoniker": "app\\Properties\\dictionary.json",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Properties\\dictionary.json",
+              "RelativeToolTip": "app\\Properties\\dictionary.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T15:31:08.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Services\\Testing\\TestService.cs",
+              "RelativeDocumentMoniker": "app\\Services\\Testing\\TestService.cs",
+              "ToolTip": "C:\\Users\\Marina\\source\\repos\\app(2)\\app\\Services\\Testing\\TestService.cs",
+              "RelativeToolTip": "app\\Services\\Testing\\TestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:12:24.906Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 574,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+/home/mamedov/RiderProjects/app/app/bin/Debug/net8.0/app
+/home/mamedov/RiderProjects/app/app/bin/Debug/net8.0/app.deps.json
+/home/mamedov/RiderProjects/app/app/bin/Debug/net8.0/app.runtimeconfig.json
+/home/mamedov/RiderProjects/app/app/bin/Debug/net8.0/app.dll
+/home/mamedov/RiderProjects/app/app/bin/Debug/net8.0/app.pdb
+/home/mamedov/RiderProjects/app/app/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/home/mamedov/RiderProjects/app/app/obj/Debug/net8.0/app.AssemblyInfoInputs.cache
+/home/mamedov/RiderProjects/app/app/obj/Debug/net8.0/app.AssemblyInfo.cs
+/home/mamedov/RiderProjects/app/app/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache
+/home/mamedov/RiderProjects/app/app/obj/Debug/net8.0/app.dll
+/home/mamedov/RiderProjects/app/app/obj/Debug/net8.0/refint/app.dll
+/home/mamedov/RiderProjects/app/app/obj/Debug/net8.0/app.pdb
+/home/mamedov/RiderProjects/app/app/obj/Debug/net8.0/app.genruntimeconfig.cache
+/home/mamedov/RiderProjects/app/app/obj/Debug/net8.0/ref/app.dll
+C:\Users\Marina\source\repos\app\app\bin\Debug\net8.0\app.exe
+C:\Users\Marina\source\repos\app\app\bin\Debug\net8.0\app.deps.json
+C:\Users\Marina\source\repos\app\app\bin\Debug\net8.0\app.runtimeconfig.json
+C:\Users\Marina\source\repos\app\app\bin\Debug\net8.0\app.dll
+C:\Users\Marina\source\repos\app\app\bin\Debug\net8.0\app.pdb
+C:\Users\Marina\source\repos\app\app\obj\Debug\net8.0\app.Properties.Resources.resources
+C:\Users\Marina\source\repos\app\app\obj\Debug\net8.0\app.csproj.GenerateResource.cache
+C:\Users\Marina\source\repos\app\app\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\app\app\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\app\app\obj\Debug\net8.0\app.AssemblyInfo.cs
+C:\Users\Marina\source\repos\app\app\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\app\app\obj\Debug\net8.0\app.dll
+C:\Users\Marina\source\repos\app\app\obj\Debug\net8.0\refint\app.dll
+C:\Users\Marina\source\repos\app\app\obj\Debug\net8.0\app.pdb
+C:\Users\Marina\source\repos\app\app\obj\Debug\net8.0\app.genruntimeconfig.cache
+C:\Users\Marina\source\repos\app\app\obj\Debug\net8.0\ref\app.dll
+C:\Users\maxim\OneDrive\Рабочий стол\app\app\bin\Debug\net8.0\app.exe
+C:\Users\maxim\OneDrive\Рабочий стол\app\app\bin\Debug\net8.0\app.deps.json
+C:\Users\maxim\OneDrive\Рабочий стол\app\app\bin\Debug\net8.0\app.runtimeconfig.json
+C:\Users\maxim\OneDrive\Рабочий стол\app\app\bin\Debug\net8.0\app.dll
+C:\Users\maxim\OneDrive\Рабочий стол\app\app\bin\Debug\net8.0\app.pdb
+C:\Users\maxim\OneDrive\Рабочий стол\app\app\obj\Debug\net8.0\app.Properties.Resources.resources
+C:\Users\maxim\OneDrive\Рабочий стол\app\app\obj\Debug\net8.0\app.csproj.GenerateResource.cache
+C:\Users\maxim\OneDrive\Рабочий стол\app\app\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\OneDrive\Рабочий стол\app\app\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+C:\Users\maxim\OneDrive\Рабочий стол\app\app\obj\Debug\net8.0\app.AssemblyInfo.cs
+C:\Users\maxim\OneDrive\Рабочий стол\app\app\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive\Рабочий стол\app\app\obj\Debug\net8.0\app.dll
+C:\Users\maxim\OneDrive\Рабочий стол\app\app\obj\Debug\net8.0\refint\app.dll
+C:\Users\maxim\OneDrive\Рабочий стол\app\app\obj\Debug\net8.0\app.pdb
+C:\Users\maxim\OneDrive\Рабочий стол\app\app\obj\Debug\net8.0\app.genruntimeconfig.cache
+C:\Users\maxim\OneDrive\Рабочий стол\app\app\obj\Debug\net8.0\ref\app.dll
+C:\Users\Marina\source\repos\app(2)\app\bin\Debug\net8.0\app.exe
+C:\Users\Marina\source\repos\app(2)\app\bin\Debug\net8.0\app.deps.json
+C:\Users\Marina\source\repos\app(2)\app\bin\Debug\net8.0\app.runtimeconfig.json
+C:\Users\Marina\source\repos\app(2)\app\bin\Debug\net8.0\app.dll
+C:\Users\Marina\source\repos\app(2)\app\bin\Debug\net8.0\app.pdb
+C:\Users\Marina\source\repos\app(2)\app\obj\Debug\net8.0\app.Properties.Resources.resources
+C:\Users\Marina\source\repos\app(2)\app\obj\Debug\net8.0\app.csproj.GenerateResource.cache
+C:\Users\Marina\source\repos\app(2)\app\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\app(2)\app\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\app(2)\app\obj\Debug\net8.0\app.AssemblyInfo.cs
+C:\Users\Marina\source\repos\app(2)\app\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\app(2)\app\obj\Debug\net8.0\app.dll
+C:\Users\Marina\source\repos\app(2)\app\obj\Debug\net8.0\refint\app.dll
+C:\Users\Marina\source\repos\app(2)\app\obj\Debug\net8.0\app.pdb
+C:\Users\Marina\source\repos\app(2)\app\obj\Debug\net8.0\app.genruntimeconfig.cache
+C:\Users\Marina\source\repos\app(2)\app\obj\Debug\net8.0\ref\app.dll

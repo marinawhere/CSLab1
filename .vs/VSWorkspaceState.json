@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Commands",
+    "\\app\\Factories",
+    "\\app\\Services",
+    "\\app\\Services\\Menus",
+    "\\app\\Services\\Repositories",
+    "\\app\\Services\\Storage",
+    "\\app\\Services\\Testing",
+    "\\app\\Services\\WordManagement"
+  ],
+  "SelectedNode": "\\app\\Factories\\CommandFactory.cs",
+  "PreviewInSolutionExplorer": false
+}
